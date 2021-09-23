@@ -1,0 +1,6 @@
+lexicographically   字典序
+chronological   按时间顺序地
+undirected 无向图
+numerator 分子  denominators 分母
+suffix 后缀
+sufficient 足够的
